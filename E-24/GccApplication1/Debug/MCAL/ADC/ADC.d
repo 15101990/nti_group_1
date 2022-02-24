@@ -1,0 +1,8 @@
+MCAL/ADC/ADC.d MCAL/ADC/ADC.o: ../MCAL/ADC/ADC.c ../APP/LIB/BIT_MATH.h \
+ ../MCAL/REG.h ../APP/LIB/STD.h
+
+../APP/LIB/BIT_MATH.h:
+
+../MCAL/REG.h:
+
+../APP/LIB/STD.h:

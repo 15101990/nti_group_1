@@ -1,0 +1,6 @@
+HAL/LM35/LM35.d HAL/LM35/LM35.o: ../HAL/LM35/LM35.c ../MCAL/ADC/ADC.h \
+ ../APP/LIB/STD.h
+
+../MCAL/ADC/ADC.h:
+
+../APP/LIB/STD.h:
