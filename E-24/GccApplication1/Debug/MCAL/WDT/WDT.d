@@ -1,8 +1,0 @@
-MCAL/WDT/WDT.d MCAL/WDT/WDT.o: ../MCAL/WDT/WDT.c ../APP/LIB/BIT_MATH.h \
- ../MCAL/REG.h ../APP/LIB/STD.h
-
-../APP/LIB/BIT_MATH.h:
-
-../MCAL/REG.h:
-
-../APP/LIB/STD.h:

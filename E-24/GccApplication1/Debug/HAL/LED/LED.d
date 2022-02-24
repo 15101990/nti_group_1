@@ -1,8 +1,0 @@
-HAL/LED/LED.d HAL/LED/LED.o: ../HAL/LED/LED.c ../HAL/LED/LED_CFG.h \
- ../MCAL/DIO/DIO.h ../APP/LIB/STD.h
-
-../HAL/LED/LED_CFG.h:
-
-../MCAL/DIO/DIO.h:
-
-../APP/LIB/STD.h:
